@@ -1,2 +1,3 @@
 # hello-world
-This repository is used to learn the using of Github. 
+
+Know is know. No know is know is no know. That is know. HaHaHa.
